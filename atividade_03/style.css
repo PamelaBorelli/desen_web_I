@@ -1,0 +1,43 @@
+body{
+    background-color: antiquewhite; text-align: center;
+}
+
+.conteudo {
+    background-color: black;
+    color: white; font-family: arial; font-size: 20px; font-weight: bold;
+    margin: auto;
+    padding: 10px;
+    width: 80%;
+
+}
+.main-aside ul {
+    list-style: none;
+
+
+
+}
+
+.main-aside ul a {
+    text-decoration: none;
+    color:black;
+    font-family: arial;
+    font-size: 25px;
+    font-weight: bolder;
+}
+.main-aside ul a:hover{
+    color: blue;
+
+}
+.conteudo1 {
+    background-color: white;
+    border: 10px solid black;
+}
+
+h2 {
+    color: blueviolet; font-family: arial; font-size: 30px
+}
+
+p {
+    color: #f700ff; font-family: arial; font-size: 22px; font-weight: bold;
+}
+

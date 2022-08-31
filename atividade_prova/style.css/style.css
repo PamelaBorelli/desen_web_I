@@ -1,0 +1,87 @@
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: black;
+    padding: 0px 0px 0px;
+}
+
+header {
+    text-align: center;
+    background-color: gray;
+    background-position: center;
+}
+
+header h1{
+    text-align: center;
+    background-color: darkgray;
+    background-position: center;
+}
+
+#genios {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 30px;
+    background-color: gainsboro;
+    
+}
+.Ada{
+    background-color: blue;
+    padding: 30px;
+
+}
+
+.Grace{
+    background-color: aquamarine;
+    padding: 30px;
+}
+
+.Mary{
+    background-color: burlywood;
+    padding: 55px;
+}
+
+#genios img{
+    max-height: 150px;
+    width: 150px;
+    padding: 30px 30px 30px 30px;   
+}
+
+#genios1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 30px;
+    background-color: gainsboro;
+}
+
+#genios1 img{
+    max-height: 150px;
+    width: 150px;
+    padding: 30px 30px 30px 30px;
+    background-color: none;
+ }
+
+ .Ada1{
+    background-color: none;
+    padding: 30px;
+
+}
+
+.Grace1{
+    background-color: none;
+    padding: 30px;
+}
+
+.Mary1{
+    background-color: nome;
+    padding: 55px;
+}
+
+ footer{
+    text-align: center;
+    background-color: darkgray;
+    background-position: center;
+    padding: auto;
+ }
